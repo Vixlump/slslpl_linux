@@ -1,0 +1,27 @@
+in
+in_input
+ret
+mem
+mem_inmem
+5
+ret
+if
+if_mem
+<<>>
+7
+-8
+~goto
+thisline
+ret
+end
+end_program
+
+thisline
+ret
+out
+out_line
+worked yay!
+ret
+end
+end_program
+
