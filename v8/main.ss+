@@ -1,0 +1,5 @@
+lib
+lib_run
+echo hello world
+.
+testlib
