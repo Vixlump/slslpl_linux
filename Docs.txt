@@ -1,0 +1,75 @@
+out:
+	out_group
+	out_input
+	out_date
+	out_time
+	out_line
+	out_math
+	out_nil
+	out_pos
+	out_mem
+	ret
+	~note
+in:
+	in_input
+	in_file
+	in_errorlevel
+	ret
+	~note
+math:
+	math_mem
+	math_cal
+	math_floatcal
+	math_intcal
+	math_boolcal
+	math_random
+	ret
+	~note
+mem:
+	mem_store
+	mem_read
+	mem_inmem
+	mem_backup
+	mem_restore
+	mem_add
+	mem_setmem
+	mem_group
+	ret
+	~note
+tap:
+	tap_operation
+	tap_script
+	ret
+	~note
+olib:
+	olib_clearmem
+	olib_clearmath
+	olib_clearinput
+	olib_garbagecollection
+	olib_restartprogram
+	ret
+	~note
+web:
+	web_input
+	web_open
+	ret
+	~note
+if:
+	if_input
+	if_mem
+	if_math
+	if_hit
+	ret
+	~note
+lib:
+	lib_ret
+	.
+	ret
+	~note
+end:
+	end_keyout
+	end_program
+	end_stall
+	end_restart
+	ret
+	~note
