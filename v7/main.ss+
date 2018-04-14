@@ -1,0 +1,14 @@
+out
+out_line
+hello world 1
+ret
+tap
+tap_script
+main2.ss+
+ret
+out
+out_line
+failed
+ret
+end
+end_program
