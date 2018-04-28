@@ -1,0 +1,12 @@
+lib
+.
+testlib
+something
+mem
+mem_setmem
+mem_setmem_scantomem
+ret
+out
+out_mem
+end
+end_keyout
